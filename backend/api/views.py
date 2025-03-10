@@ -10,7 +10,6 @@ from django.http import JsonResponse
 
 
 class ResponseRawData(APIView):
-    
     # def get(self, request):
         
     #     queryset = Products.objects.all().order_by("?").first()
